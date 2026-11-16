@@ -1,3 +1,7 @@
+// The radar-2 model, re-authored in this session: one snapshot of the protocol universe in, one
+// ranked board out. Implied value is TVL times a category multiple taken from the live-token
+// market itself, times growth and maturity multipliers — computed from the snapshot, never from a
+// hand-kept list of names.
 // Token Radar's model: one snapshot of the protocol universe in, one ranked board out.
 //
 // The board ranks every protocol on the snapshot's watchlist (the floor, never a ceiling) plus every
