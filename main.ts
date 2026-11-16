@@ -1,3 +1,6 @@
+// Entrypoint, re-authored in this session: snapshot in, ranked board, dashboard data,
+// screenshots and dossier out. The model lives in lib/model.ts; the dossier is built by the
+// vendored make.fun library, byte for byte the scorer's own copy.
 // Token Radar's program (Node 22, standard library only).
 //
 // It reads the sealed snapshot from /input/snapshot.json (or --input <file|dir>), scores every
